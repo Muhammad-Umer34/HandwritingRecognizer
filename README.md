@@ -24,7 +24,7 @@ HandwritingRecognizer is a full-stack AI application that allows users to draw c
 
 **Machine Learning:**
 - EMNIST Dataset
-- TensorFlow / PyTorch
+- TensorFlow 
 
 **Image Processing:**
 - OpenCV
